@@ -1,8 +1,8 @@
 body{
     background: rgb(70,142,236);
     font: normal 15px Arial;
-    background: url('imagens/contagem1.png') no-repeat;
-    background: skyblue;
+    background-image: url('imagens/contagem1.png') no-repeat;
+    background-color: skyblue;
     background-size: 100%;
 }
 header{
