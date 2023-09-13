@@ -6,7 +6,7 @@
 
 body{
     font: normal 15px Arial;
-    background-image: url('imagens/contagem1.png') no-repeat;    
+    background: skyblue url('imagens/contagem1.png') no-repeat;    
     background-size: 100%;
 }
 header{
